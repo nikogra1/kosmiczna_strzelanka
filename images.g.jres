@@ -1,0 +1,47 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAADAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "meteor"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image4": {
+        "data": "hwQEAAUAAAALAAsAu7ALALC7AAAACwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wybierz"
+    },
+    "image5": {
+        "data": "hwQEAAUAAAACAAIAIiACACAiAAAAAgAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wybierz0"
+    },
+    "image6": {
+        "data": "hwQEAAUAAAAFAAUAVVAFAFBVAAAABQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wybierz1"
+    },
+    "image7": {
+        "data": "hwQEAAUAAAAHAAcAd3AHAHB3AAAABwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wybierz2"
+    },
+    "image8": {
+        "data": "hwQEAAUAAAAEAAQAREAEAEBEAAAABAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "wybierz3"
+    },
+    "image1": {
+        "data": "hwQGAAUAAAAAIAAAIAACAAAAAgAAAAIAIAACAAAgAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
